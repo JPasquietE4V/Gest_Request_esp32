@@ -1038,3 +1038,8 @@
 57678	60522	6727698311109662	proj1.elf	37cd184ca02d8e38
 60523	60794	6727698313978112	.bin_timestamp	1cbd64606aaa3bde
 60795	60885	0	esp-idf/esptool_py/CMakeFiles/app_check_size	5fb85bc92867a0e6
+40	148	0	esp-idf/esptool_py/CMakeFiles/app_check_size	5fb85bc92867a0e6
+36	212	6727698014302188	bootloader-prefix/src/bootloader-stamp/bootloader-build	efc64d7cb5e630a7
+36	212	6727698014302188	bootloader/bootloader.elf	efc64d7cb5e630a7
+36	212	6727698014302188	bootloader/bootloader.bin	efc64d7cb5e630a7
+36	212	6727698014302188	bootloader/bootloader.map	efc64d7cb5e630a7
